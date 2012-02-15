@@ -1,0 +1,5 @@
+Version 201202100115 - fix to @import parsing of url(x.css)
+Version 201202100100 - fix to @each parsing of things like rgba(*,*,*,*) which previously removed braces incorrectly.
+Version 201202092300 - fix to @mixins calling @mixins involving variable-name collisions, minor fix to interpolation fail
+Version 201202081100 - fix to @media contexts
+Version 201202072300 - first version with versions!
